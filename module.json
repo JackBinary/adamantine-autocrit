@@ -18,6 +18,6 @@
   "packs": [],
   "system": "dnd5e",
   "url": "https://github.com/JackBinary/adamantine-autocrit",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/JackBinary/adamantine-autocrit/refs/heads/main/module.json",
   "download": ""
 }
