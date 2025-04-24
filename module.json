@@ -3,7 +3,7 @@
   "title": "Adamantine Auto-Crit",
   "description": "Adds a flag to make weapons always crit when they hit, mimicking an adamantine enchantment.",
   "version": "1.0.0",
-  "author": "ChatGPT + Jack",
+  "author": "JackBinary",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11",
   "dependencies": [
@@ -17,7 +17,7 @@
   "styles": [],
   "packs": [],
   "system": "dnd5e",
-  "url": "https://example.com",
+  "url": "https://github.com/JackBinary/adamantine-autocrit",
   "manifest": "",
   "download": ""
 }
