@@ -12,7 +12,7 @@
       "type": "module"
     }
   ],
-  "scripts": ["scripts/main.js"],
+  "scripts": ["main.js"],
   "esmodules": [],
   "styles": [],
   "packs": [],
