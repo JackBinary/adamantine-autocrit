@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "JackBinary",
   "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "11",
+  "compatibleCoreVersion": "12",
   "dependencies": [
     {
       "name": "midi-qol",
