@@ -1,0 +1,23 @@
+{
+  "name": "adamantine-autocrit",
+  "title": "Adamantine Auto-Crit",
+  "description": "Adds a flag to make weapons always crit when they hit, mimicking an adamantine enchantment.",
+  "version": "1.0.0",
+  "author": "ChatGPT + Jack",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "dependencies": [
+    {
+      "name": "midi-qol",
+      "type": "module"
+    }
+  ],
+  "scripts": ["scripts/main.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "system": "dnd5e",
+  "url": "https://example.com",
+  "manifest": "",
+  "download": ""
+}
